@@ -84,5 +84,3 @@ If you found this project helpful or want to support my work, feel free to buy m
 <a href="https://www.buymeacoffee.com/gonzotrickster9899" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ---
-
-*Built with ❤️ using Flutter, Flutter AI Toolkit, and Google Gemini.*
